@@ -1,0 +1,7 @@
+![clown30daysapp](https://github.com/Ziklson/Display-lists-and-use-Material-Design/assets/96010534/e9601942-94d7-4f1b-aad4-34f3ce9672a2)
+![AffirmationAppIcon](https://github.com/Ziklson/Display-lists-and-use-Material-Design/assets/96010534/ed200163-87bb-4e30-9534-6740dd6b725b)
+![affirmationApp](https://github.com/Ziklson/Display-lists-and-use-Material-Design/assets/96010534/0ae60844-85a4-4f45-8c79-c52cfa2ea8b0)
+![woofAppAnimations](https://github.com/Ziklson/Display-lists-and-use-Material-Design/assets/96010534/84ab1dca-9fd1-452b-9c9b-6e909c8ed843)
+![unit3](https://github.com/Ziklson/Display-lists-and-use-Material-Design/assets/96010534/db6610a5-cb1c-46f6-83ac-f7ef7fcf997a)
+![heroes](https://github.com/Ziklson/Display-lists-and-use-Material-Design/assets/96010534/c3780bcb-8422-4a32-817f-bf36205cf06b)
+![CourseApp](https://github.com/Ziklson/Display-lists-and-use-Material-Design/assets/96010534/6dd917be-6443-4e71-aa03-6adb61d94a9b)
